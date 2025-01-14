@@ -1,4 +1,5 @@
-                                                                       # Ping-Pong Game
+# Ping-Pong Game
+
 ## Install instructions
 To play the game, download the following files:
 1. Download the game executable (game.exe).
